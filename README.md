@@ -1,10 +1,10 @@
-# Prueba para El Androide Libre
-## Algunos comandos son estos, como un H2
-### O un H3 tamnién
-#### Puedes poner lo que quieras
-- También una lista
-- Con tan sólo poner un guión
+# Curso de Programación Full Stack
+## MÓDULO 2 - Repositorio y WorkFlow
+### Silicon Misiones - https://siliconmisiones.gob.ar/
+#### Autor
+- Gómez
+- Rocío
 
-  > O una cita así de fácil
+  > Este repositorio fue creado con fines académicos. 
 
-  *Enfasis se pone así*
+  *Contiene los ejercicios resueltos del Módulo 1.*
